@@ -19,4 +19,3 @@
 ## 📫 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/devraj-songara-24b536318/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=vercel)](https://leetcode.com/u/devraj894/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/devraj894)  
