@@ -3,7 +3,7 @@
 <h2 align="center">A Frontend Developer</h2>
 <div  align="center">
   <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2F80ED&width=435&lines=Passionate+Learner;React+%7C+Vite+%7C+Tailwind+Enthusiast;Exploring+Next.js+and+Beyond" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2F80ED&width=435&lines=Passionate+Learner;React+%7C+Next+%7C+Tailwind+%7C+JavaScript;Exploring+System+Design+and+Beyond" alt="Typing SVG" />
   </p>
 </div>
 
