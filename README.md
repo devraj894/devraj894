@@ -44,11 +44,11 @@
 <h3 align="left">📞 Contact Me</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jolly-pru-marma-9b7a211bb/" target="_blank">
-    <img src="https://www.linkedin.com/in/devraj-songara-24b536318/" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/devraj-songara-24b536318/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/devraj894/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-%230077B5.svg?style=for-the-badge&logo=LeetCode&logoColor=white" length="7p" alt="LeetCode" />
   </a>
 </div>
 
