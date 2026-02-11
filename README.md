@@ -13,8 +13,8 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="center">
-  Final Year B.Tech CSE Student | Passionate about building scalable web apps.
-  Worked on [TravelBuddy] and [Interactive Workflow Dashboard]. Love solving complex problems and learning new technologies.
+  Recent B.Tech CSE graduate | Passionate about building scalable web apps.
+  Experienced in startup environments, collaborating with cross-functional teams. Love solving complex problems and learning new technologies.
 </p>
 
 <div align="center">
